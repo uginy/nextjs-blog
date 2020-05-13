@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+## Simple Blog using amazin Next.js framework
+
+Example: <https://nextjs-blog.ardname.now.sh/>
